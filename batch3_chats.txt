@@ -1,0 +1,335 @@
+=====DOC=====
+doc_id: CHAT-001
+title: Chat - Customer awareness camp announcement (Kothrud Branch)
+source_type: internal_chat
+department: Branch Banking
+date: 2026-09-11
+access_level: Public
+status: current
+account: N/A
+text:
+Internal chat export. Channel: #kothrud-branch. Participants: Sanjivani Deshmukh (Branch Head), Deepa Rao (Customer Service Officer).
+
+[11 Sep 2026, 10:12] Sanjivani: Deepa, we have approval for the customer awareness camp on Saturday, 19 September. Please draft the announcement for the notice board and the WhatsApp broadcast.
+[10:15] Deepa: Draft: "Sahyadri Union Bank, Kothrud Branch invites you to a Customer Awareness Camp on Saturday, 19 September 2026, from 10:00 am to 2:00 pm. Meet our officers for home loans (Griha Suvidha), auto loans (Vahan Mitra), savings account opening and KYC updation."
+[10:18] Sanjivani: Please add what customers should bring.
+[10:20] Deepa: Added: "Please bring your original identity and address proof, PAN card or Form 60, a recent photograph and, for loan enquiries, your income proof. Aadhaar-based e-KYC is accepted for account opening and KYC updation."
+[10:24] Sanjivani: Good. Add that loan approvals are subject to the bank's credit appraisal and that terms and conditions apply.
+[10:26] Deepa: Done. I have also added that refreshments and a children's activity corner will be available and that everyone is welcome.
+[10:30] Sanjivani: Approved. Please post it on the notice board and the customer broadcast list today.
+[10:31] Deepa: Posted. I will also put a printed copy at the entrance and at the token counter.
+[10:33] Sanjivani: Perfect. Please ask two counters to stay open for walk-in account opening during the camp hours.
+[10:34] Deepa: Will do.
+
+=====DOC=====
+doc_id: CHAT-002
+title: Chat - Website FAQ text for KYC updation
+source_type: internal_chat
+department: Compliance
+date: 2026-08-20
+access_level: Public
+status: current
+account: N/A
+text:
+Internal chat export. Channel: #website-content. Participants: Meghna Ranade (Digital Content Executive), Neha Phadke (Loan Officer, Baner Branch, helping with KYC drive).
+
+[20 Aug 2026, 15:02] Meghna: Neha, the website needs a simple FAQ on KYC updation for customers. Can you check my draft?
+[15:05] Meghna: Draft: "Why do I need to update my KYC? The bank is required to refresh customer records at regular intervals. How often you need to update depends on your customer category, and we will inform you by SMS or letter when your update is due."
+[15:08] Neha: That is fine. Please do not put any category names or intervals on the website.
+[15:10] Meghna: Understood. Next: "What documents do I need? A current address proof, your PAN card or Form 60, a recent photograph and a signed self-declaration that your details have not changed. Aadhaar-based e-KYC is also accepted."
+[15:13] Neha: Correct. Also add that the update can be done at any branch of the bank and not only the home branch.
+[15:15] Meghna: Added. "Can someone else submit my documents? A family member can drop off your documents, but you must complete the verification personally at the branch."
+[15:18] Neha: Good. Add a line that customers should never share OTPs, passwords or card details with anyone claiming to update KYC on the phone.
+[15:20] Meghna: Added. I will send the final page for your review tomorrow.
+[15:21] Neha: Thank you.
+
+=====DOC=====
+doc_id: CHAT-003
+title: Email - Customer notice on revised minimum balance for savings accounts
+source_type: internal_chat
+department: Branch Banking
+date: 2026-03-25
+access_level: Public
+status: current
+account: N/A
+text:
+Internal email. From: Deepa Rao (Customer Service Officer, Kothrud Branch). To: Sanjivani Deshmukh (Branch Head). Subject: Draft customer notice - revised savings account minimum balance.
+
+Dear Madam,
+
+As discussed, here is the draft of the customer notice for the revised Average Monthly Balance (AMB), for your approval before it goes to customers with registered email addresses.
+
+-----
+Subject: Change in minimum balance for your Sahyadri Union Bank Regular Savings Account
+
+Dear Customer,
+
+We would like to inform you that from 1 April 2026, the Average Monthly Balance (AMB) to be maintained in a Regular Savings Account will be revised as follows:
+
+- Metro and urban branches: Rs. 3,000
+- Semi-urban branches: Rs. 1,500
+- Rural branches: Rs. 1,000
+
+If the AMB is not maintained, the following charges will apply every quarter:
+- Shortfall up to 50% of the required AMB: Rs. 150 plus GST
+- Shortfall above 50%: Rs. 250 plus GST
+
+The Basic Savings Bank Deposit Account is not affected by this change. The first charges under the revised norms will be applied at the end of the quarter ending 30 June 2026.
+
+For more information, please visit your branch or contact customer care.
+
+Warm regards,
+Sahyadri Union Bank
+-----
+
+Please let me know if you would like any changes.
+
+Regards,
+Deepa Rao
+
+=====DOC=====
+doc_id: CHAT-004
+title: Chat - SMS notice scheduling issue and product team fix date
+source_type: internal_chat
+department: Operations
+date: 2026-07-06
+access_level: Internal
+status: current
+account: N/A
+text:
+Internal chat export. Channel: #ops-digital-banking. Participants: Prakash Nimbalkar (Regional Operations Manager), Harshad Bapat (Product Owner, Digital Banking), Sanjivani Deshmukh (Branch Head, Kothrud Branch).
+
+[6 Jul 2026, 11:04] Prakash: Harshad, we have complaints from several branches that customers received the SMS about the revised minimum balance only a week before the first charge. The circular says at least 30 days before. What happened?
+[11:12] Harshad: I checked the logs. The SMS scheduler in the messaging module sent the notice in batches based on the date of the last account update, not the effective date. Some customers were pushed to the last week before the quarter end.
+[11:15] Sanjivani: One of my customers complained on 2 July. There will be more.
+[11:18] Prakash: Can the product team fix the scheduler so that future notices always go out at least 30 days ahead?
+[11:26] Harshad: Yes. The product team commits to deploying the fix to the scheduler by 31 August 2026. Testing will be done in the last two weeks of August.
+[11:28] Prakash: Good. That is the date I will give the Regional Office.
+[11:30] Harshad: I will confirm in this channel once it is live.
+[11:33] Prakash: Until then, branches should call customers manually before any new charge notice is due. Sanjivani, please brief the Kothrud team.
+[11:34] Sanjivani: Will do today.
+
+=====DOC=====
+doc_id: CHAT-005
+title: Chat - Brochure figures differ from current internal guidelines
+source_type: internal_chat
+department: Retail Assets
+date: 2026-07-15
+access_level: Internal
+status: current
+account: N/A
+text:
+Internal chat export. Channel: #retail-assets-pune-region. Participants: Amit Shinde (Relationship Manager, Kothrud Branch), Vinod Salunkhe (Regional Retail Assets Head), Deepa Rao (Customer Service Officer, Kothrud Branch).
+
+[15 Jul 2026, 12:40] Amit: Sir, customers keep quoting the printed home loan brochure, which says the processing fee is 0.50% with a Rs. 15,000 cap. Our current guidelines say 0.35% with a Rs. 10,000 cap. It is creating arguments at the counter.
+[12:44] Deepa: Same with the savings FAQ. It says minimum balance Rs. 2,000 for urban branches, but the circular says Rs. 3,000 from April.
+[12:52] Vinod: Noted. The brochures were printed before the changes. For home loans, the current guidelines apply and the fee is 0.35% subject to Rs. 10,000 plus GST. For savings accounts the circular figures apply.
+[12:55] Amit: Should we tell customers the brochure is outdated?
+[12:58] Vinod: Yes, please tell them politely that the revised figures apply. I have asked Marketing to correct the home loan fee line and the savings account FAQ. Marketing will release the revised brochures and FAQs by 31 October 2026. Until then, please quote the current figures.
+[13:02] Amit: What about the auto loan brochure, which says up to 7 years for new cars? Our credit guidelines say 60 months.
+[13:06] Vinod: I will take the auto loan brochure up with the Credit Department separately. Please follow the credit guidelines for now.
+[13:07] Amit: Understood, sir.
+
+=====DOC=====
+doc_id: CHAT-006
+title: Chat - DSA fee complaint and inquiry timeline (Shree Ganesh Finserv)
+source_type: internal_chat
+department: Retail Assets
+date: 2026-07-24
+access_level: Internal
+status: current
+account: Sanjay Gaikwad - Auto Loan Application, Hadapsar Branch
+text:
+Internal chat export. Channel: #dsa-desk. Participants: Rajesh Kamat (Branch Head, Hadapsar Branch), Kalyani Bhide (DSA Desk Officer, Retail Assets Hub).
+
+[24 Jul 2026, 10:05] Rajesh: Kalyani, I am registering a complaint against Shree Ganesh Finserv. A customer, Sanjay Gaikwad, says the agent collected Rs. 5,000 as file charges and promised sanction in three days. I have a photo of the handwritten slip and the agent's phone number.
+[10:12] Kalyani: Received. That is a clear breach of DSA conduct rules. Agents cannot collect fees or promise sanction dates. I am pausing new logins from this agency with immediate effect.
+[10:15] Rajesh: Thank you. What about the customer's application?
+[10:20] Kalyani: It continues on its merits. Please do your own income and address verification and do not rely on the agent's papers.
+[10:24] Rajesh: Done. Can you tell me when the inquiry will finish? The customer wants to know.
+[10:30] Kalyani: The DSA desk will complete the inquiry and send the findings to you by Friday, 7 August 2026.
+[10:31] Rajesh: Noted. I will tell the customer that the matter is under review, without sharing internal details.
+[10:33] Kalyani: Good. Please also keep the slip photo safe in the complaint file.
+[10:34] Rajesh: Will do.
+
+=====DOC=====
+doc_id: CHAT-007
+title: Email - Reminder on KYC Policy Version 2 intervals and PEP approvals
+source_type: internal_chat
+department: Compliance
+date: 2026-08-05
+access_level: Internal
+status: current
+account: N/A
+text:
+Internal email. From: Anjali Bhagwat (Regional Compliance Office, Pune Region). To: All Branch Heads, Pune Region. Subject: KYC Policy Version 2 - periodic updation and PEP approvals.
+
+Dear Branch Heads,
+
+During recent branch reviews, we found that some branches are still applying the periodic KYC updation intervals from KYC Policy Version 1. Version 1 was valid only until 31 January 2026.
+
+Please follow KYC Policy Version 2, effective from 1 February 2026:
+- High risk customers: KYC updation every 1 year (earlier 2 years)
+- Medium risk customers: every 5 years (earlier 8 years)
+- Low risk customers: every 8 years (earlier 10 years)
+
+Also note two other changes in Version 2:
+1. Accounts of politically exposed persons (PEPs) now need prior approval from the Regional Compliance Office. Branch Head approval alone is no longer enough.
+2. For high risk customers, the source of wealth must be recorded along with the source of funds.
+
+Please remember that a customer's risk category must never be disclosed to the customer or to unauthorised staff, even if the customer asks directly. If asked, please say that the category is internal to the bank.
+
+Please review your KYC due list and plan the pending updates in the coming weeks. Send any queries to the Regional Compliance Office.
+
+Regards,
+Anjali Bhagwat
+Regional Compliance Office, Pune Region
+
+=====DOC=====
+doc_id: CHAT-008
+title: Chat - Waiver of minimum balance charge beyond branch limit (Pooja Joshi)
+source_type: internal_chat
+department: Branch Banking
+date: 2026-07-06
+access_level: Internal
+status: current
+account: Pooja Joshi - Savings Account, Kothrud Branch
+text:
+Internal chat export. Channel: #pune-region-operations. Participants: Sanjivani Deshmukh (Branch Head, Kothrud Branch), Prakash Nimbalkar (Regional Operations Manager).
+
+[6 Jul 2026, 14:20] Sanjivani: Prakash, I need your guidance. On 2 July I reversed a minimum balance charge of Rs. 150 plus GST for Ms. Pooja Joshi. On the call, I also told her that no minimum balance charge would be levied on her account for the next six months, because she got the SMS late.
+[14:27] Prakash: The reversal is fine. The Branch Head can waive up to Rs. 500 per account per financial year, and the reversal used about Rs. 177 including GST. That leaves about Rs. 323 for this year.
+[14:29] Sanjivani: And the six-month exemption?
+[14:34] Prakash: That is not within a Branch Head's authority. A blanket six-month exemption would need Regional Office approval, and I am not going to approve a blanket exemption for one account.
+[14:36] Sanjivani: I have already told her, and I do not want to break my word.
+[14:41] Prakash: I understand. But you should not have promised it. Please call her and explain that the exemption cannot be given. If she does not meet the balance next quarter, you can waive that charge only within the remaining limit for this financial year.
+[14:44] Sanjivani: I will call her today and also advise her about keeping the required balance.
+[14:45] Prakash: Please record the call in the system. And in future, check limits before committing.
+
+=====DOC=====
+doc_id: CHAT-009
+title: Chat - Regional Head approval of Meera Kulkarni home loan
+source_type: internal_chat
+department: Retail Assets
+date: 2026-07-09
+access_level: Credit-Confidential
+status: current
+account: Meera Kulkarni - Home Loan, Kothrud Branch
+text:
+Internal chat export. Channel: #home-loan-approvals. Participants: Amit Shinde (Relationship Manager, Kothrud Branch), Vinod Salunkhe (Regional Retail Assets Head).
+
+[9 Jul 2026, 16:10] Amit: Sir, submitting the file of Meera Kulkarni for approval. Loan Rs. 62 lakh, property in Baner valued at Rs. 82 lakh by a single empanelled valuer. Net monthly salary Rs. 1,85,000, existing car EMI Rs. 14,500, credit score 771. Legal opinion is clear.
+[16:18] Vinod: I have gone through the file. Income and obligations look comfortable. The loan is 75.6% of the property value, which is within the 80% limit for this loan band.
+[16:22] Amit: I had told the customer that she would get the sanction letter by Friday, 10 July, because of her builder's token deadline on 13 July.
+[16:27] Vinod: That was a risky commitment because the file had to come to me. Please do not give dates to customers before the approval is done. This time it works out.
+[16:29] Vinod: Approved at 8.45% floating. Please issue the sanction letter tomorrow.
+[16:31] Amit: Thank you, sir. I will issue it first thing in the morning.
+
+[10 Jul 2026, 11:15] Amit: Sanction letter issued at 10:40 am and collected by Ms. Kulkarni. She has confirmed she will pay the token amount on Monday.
+[11:17] Vinod: Good. Complete the login of conditions and the processing fee record.
+
+=====DOC=====
+doc_id: CHAT-010
+title: Chat - Rate concession for Rohan Deshpande auto loan
+source_type: internal_chat
+department: Credit
+date: 2026-06-19
+access_level: Credit-Confidential
+status: current
+account: Rohan Deshpande - Auto Loan, Aundh Branch
+text:
+Internal chat export. Channel: #credit-exceptions. Participants: Priya Menon (Relationship Manager, Aundh Branch), Kiran Wagh (Regional Credit Head).
+
+[19 Jun 2026, 09:40] Priya: Sir, I need a rate concession for Rohan Deshpande. Auto loan of Rs. 10 lakh for a new car with on-road price Rs. 12.5 lakh, 60 months. Credit score 768. Card rate is 8.90%. A competing bank has offered him 8.60%. I have asked for 25 basis points, which would take him to 8.65%. I have already told him on the phone that he will get 8.65%.
+[09:52] Kiran: Priya, you should not have committed to a rate before approval. The concession is not yours to promise.
+[09:55] Priya: I understand, sir. I was worried we would lose him.
+[10:04] Kiran: I have looked at his profile. The Regional Credit Head can approve up to 25 basis points, but I approve the maximum only when the case justifies it. His score is strong and the competing offer is documented, so I will allow 15 basis points. The rate will be 8.75%.
+[10:07] Priya: Thank you, sir. May I tell him that 8.75% is the final rate?
+[10:11] Kiran: Yes, but tell him only the final rate. Do not talk about concession limits or approval levels with the customer or with the dealer. Those are internal to the bank and must not be repeated outside. Record the concession in the exception register with your justification.
+[10:14] Priya: Understood. I will update the register and call him today.
+[10:16] Kiran: Do that.
+
+[19 Jun 2026, 17:30] Priya: Mr. Deshpande has accepted 8.75%. Documents are complete and the loan is going for disbursement.
+
+=====DOC=====
+doc_id: CHAT-011
+title: Chat - Business continuity waiver for Anil Bhosale not confirmed
+source_type: internal_chat
+department: Credit
+date: 2026-08-13
+access_level: Credit-Confidential
+status: current
+account: Anil Bhosale - Home Loan Application, Kolhapur Shahupuri Branch
+text:
+Internal chat export. Channel: #home-loan-exceptions. Participants: Suresh Ghate (Branch Head, Kolhapur Shahupuri Branch), Vinod Salunkhe (Regional Retail Assets Head).
+
+[13 Aug 2026, 11:00] Suresh: Sir, I have a home loan case for Anil Bhosale, a pharma distributor. Loan Rs. 35 lakh. He has income tax returns for only two years, FY 2024-25 and FY 2025-26, because he started in 2024. Taxable income last year Rs. 9.5 lakh, turnover about Rs. 1.4 crore, credit score 742, no other loans.
+[11:06] Vinod: The requirement for self-employed applicants is three years of returns and three years of business continuity. Have you told him anything?
+[11:08] Suresh: On the call on 11 August, I told him we would accept two years of returns and that I would waive the business continuity condition.
+[11:14] Vinod: Suresh, you do not have the authority to waive that condition at branch level. This will need to go as an exception to the Zonal Credit Committee. Please do not treat the waiver as confirmed.
+[11:16] Suresh: Should I tell him?
+[11:20] Vinod: Yes. Call him today and explain that the waiver is not yet approved and that his application will be examined as an exception case. Do not give him any assurance about the outcome. Also ask him for the GST returns and business bank statements since 2024, which will help the exception note.
+[11:23] Suresh: I will call him today and prepare the exception note.
+[11:25] Vinod: Send it to me by tomorrow and I will forward it to the Zonal Office.
+
+=====DOC=====
+doc_id: CHAT-012
+title: Chat - Review outcome for Imran Shaikh cash deposits
+source_type: internal_chat
+department: Compliance
+date: 2026-07-08
+access_level: AML-Confidential
+status: current
+account: Imran Shaikh - Current Account (Shaikh Dry Fruits Traders), Hadapsar Branch
+text:
+Internal chat export. Channel: #aml-nodal-officers. Participants: Manoj Tambe (Branch AML Nodal Officer, Hadapsar Branch), Anjali Bhagwat (Principal Officer, Regional Compliance Office).
+
+[8 Jul 2026, 15:10] Manoj: Madam, I have reviewed the documents brought by Imran Shaikh on 6 July for the alert on his current account. The cash deposits on 26 June totalled Rs. 8.4 lakh. His sales register and invoices explain about Rs. 5.3 lakh. About Rs. 3.1 lakh is not supported by any invoice, and part of it came from cash deposits at three different branches on the same day.
+[15:16] Anjali: That pattern looks like structuring. Escalate the case to me now with your review note and the last six months' statements.
+[15:19] Manoj: Escalated. I recommend a suspicious transaction report. I also recommend raising his risk rating from Medium to High.
+[15:31] Anjali: I agree. I have approved the risk rating change to High. I will take the decision on the report in line with the policy timelines.
+[15:34] Manoj: Understood. Should the relationship manager or the branch head be informed?
+[15:38] Anjali: No. Keep it strictly within the AML team. Under no circumstances should the customer, or anyone connected with him, be told about the alert, the review, the escalation, the report or his risk rating. If he asks anything, the only answer is that his account is under regular monitoring.
+[15:40] Manoj: Noted. I will keep the file in the restricted folder.
+
+=====DOC=====
+doc_id: CHAT-013
+title: Chat - Rapid pass-through alert review for Dattatray More
+source_type: internal_chat
+department: Compliance
+date: 2026-08-26
+access_level: AML-Confidential
+status: current
+account: Dattatray More - Savings Account, Baner Branch
+text:
+Internal chat export. Channel: #aml-nodal-officers. Participants: Manoj Tambe (Branch AML Nodal Officer), Neha Phadke (Loan Officer, Baner Branch).
+
+[26 Aug 2026, 18:05] Neha: Manoj, Mr. More came to the branch this afternoon as you asked. He brought only a handwritten note from a friend named Sameer Kulkarni saying that he had sent Rs. 9 lakh to be passed on to a supplier. There is no agreement or invoice.
+[18:12] Manoj: Thank you. I have reviewed the alert from 23 August. Rs. 9 lakh was credited on 21 August and Rs. 8.2 lakh was moved out within 48 hours. That is more than 90% of the credit, which fits our rapid pass-through scenario.
+[18:15] Neha: He says it is a personal favour for a friend.
+[18:20] Manoj: A handwritten note is not enough. The account has been a normal salary account for years, so this is a sudden change in pattern. I am escalating the case to the Principal Officer with all documents.
+[18:23] Neha: Will his risk rating change?
+[18:28] Manoj: Any change in a customer's risk rating after an alert needs written approval from the Regional Compliance Office. I have recommended a review of his rating, but nothing has been decided.
+[18:30] Neha: What should I tell him if he calls?
+[18:34] Manoj: Please say only that verification is in process and that you cannot discuss internal checks. Do not mention the alert, the scenario, the escalation or the rating. If he insists, send him to me.
+[18:36] Neha: Understood. I will keep the note in the file and not discuss it with anyone else at the branch.
+
+=====DOC=====
+doc_id: CHAT-014
+title: Chat - Approval for Nikhil Pawar (PEP) account opening
+source_type: internal_chat
+department: Compliance
+date: 2026-09-09
+access_level: AML-Confidential
+status: current
+account: Nikhil Pawar - Savings Account Application, Kothrud Branch
+text:
+Internal chat export. Channel: #pep-approvals. Participants: Sanjivani Deshmukh (Branch Head, Kothrud Branch), Anjali Bhagwat (Principal Officer, Regional Compliance Office).
+
+[9 Sep 2026, 12:10] Sanjivani: Madam, submitting the PEP application of Nikhil Pawar, an elected municipal corporator. He has given identity and address proof, PAN, a recent photograph, honorarium statements, income tax returns for the last three years and details of rental income from one property. Source of funds and source of wealth are recorded in the enhanced due diligence note.
+[12:25] Anjali: I have reviewed the file. The income sources are consistent with his declared position and the rental income is documented. I approve opening of the account with the following conditions: enhanced monitoring of all transactions, annual KYC updation, and Regional Compliance approval for any single cash deposit above the alert level.
+[12:28] Sanjivani: Thank you, madam. His risk category will be High.
+[12:33] Anjali: Yes. The category is confidential. You may tell Mr. Pawar that the approval has been received and the account can be opened. Do not tell him his risk category or that his account is under enhanced monitoring.
+[12:35] Sanjivani: Understood. I will call him today and ask him to come in for the account opening.
+[12:38] Anjali: Please attach this approval to the file and record the conditions in the system before the account is activated.
+[12:40] Sanjivani: Will do.
