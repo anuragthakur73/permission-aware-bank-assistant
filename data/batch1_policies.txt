@@ -1,0 +1,440 @@
+=====DOC=====
+doc_id: POL-001
+title: Sahyadri Griha Suvidha - Home Loan Product Brochure
+source_type: policy
+department: Retail Assets
+date: 2025-11-10
+access_level: Public
+status: current
+account: N/A
+text:
+SAHYADRI UNION BANK - SAHYADRI GRIHA SUVIDHA HOME LOAN
+
+Own your home with a loan designed for salaried and self-employed families.
+
+Key features
+- Loan amount: up to Rs. 5 crore.
+- Interest rate: starting from 8.35% per annum, floating, linked to the bank's Repo Linked Lending Rate (SRLLR). The final rate depends on the applicant's credit profile.
+- Tenure: up to 30 years, subject to the borrower being no older than 65 years at the end of the loan.
+- Financing: up to 90% of property cost for loans up to Rs. 30 lakh; up to 80% for loans from Rs. 30 lakh to Rs. 75 lakh; up to 75% for loans above Rs. 75 lakh.
+- Processing fee: 0.50% of the loan amount plus GST, subject to a maximum of Rs. 15,000 plus GST.
+
+Who can apply
+Resident Indian salaried employees with at least 2 years of work experience, and self-employed professionals and business owners with at least 3 years of business continuity.
+
+Documents required
+- Identity and address proof (as per KYC norms)
+- Last 3 months' salary slips and 6 months' bank statements (salaried), or last 3 years' income tax returns with financial statements (self-employed)
+- Property documents, including sale agreement and title papers
+
+Home loan protection insurance
+Loan protection insurance from our bancassurance partners is available but is completely optional. Your loan sanction does not depend on buying any insurance product.
+
+Visit any Sahyadri Union Bank branch or call our customer care number to apply. Terms and conditions apply.
+
+=====DOC=====
+doc_id: POL-002
+title: Home Loan Processing Guidelines - Version 2
+source_type: policy
+department: Retail Assets
+date: 2026-04-01
+access_level: Internal
+status: current
+account: N/A
+text:
+SAHYADRI UNION BANK - RETAIL ASSETS DEPARTMENT
+HOME LOAN PROCESSING GUIDELINES - VERSION 2
+Effective from 1 April 2026. This version replaces Version 1 dated 1 July 2024.
+
+1. Login
+The branch must log in every home loan application in the Loan Origination System on the day the complete application is received. Use the standard document checklist. Incomplete files must not be logged.
+
+2. Processing fee
+Collect a processing fee of 0.35% of the loan amount plus GST, subject to a maximum of Rs. 10,000 plus GST, at the time of login. The fee is non-refundable once legal scrutiny has started.
+
+3. Turnaround time
+Sanction decision within 7 working days from receipt of the complete file. Branches expecting a delay must inform the Regional Retail Assets Hub in writing before the 7th working day.
+
+4. Legal and valuation
+- Legal opinion only from empanelled advocates.
+- Valuation only from empanelled valuers.
+- Properties valued above Rs. 1 crore require two independent valuations.
+
+5. Insurance and cross-sell
+Home loan protection insurance under the bancassurance arrangement is optional. Staff must not make insurance a condition for sanction or disbursement.
+
+6. Sanctioning authority
+- Branch Manager: up to Rs. 50 lakh
+- Regional Head: above Rs. 50 lakh and up to Rs. 2 crore
+- Zonal Credit Committee: above Rs. 2 crore
+
+7. Disbursement
+Disburse only after the mortgage is created, all conditions of sanction are met, and the disbursement checklist is signed by two officers.
+
+The maximum tenure is 30 years, subject to the borrower being no older than 65 years at the end of the loan.
+
+=====DOC=====
+doc_id: POL-003
+title: Home Loan Processing Guidelines - Version 1
+source_type: policy
+department: Retail Assets
+date: 2024-07-01
+access_level: Internal
+status: superseded
+account: N/A
+text:
+SAHYADRI UNION BANK - RETAIL ASSETS DEPARTMENT
+HOME LOAN PROCESSING GUIDELINES - VERSION 1
+Effective from 1 July 2024. Valid until 31 March 2026.
+
+1. Login
+Branches must log in home loan applications in the Loan Origination System within 2 working days of receiving the complete application.
+
+2. Processing fee
+Collect a processing fee of 0.50% of the loan amount plus GST, subject to a maximum of Rs. 15,000 plus GST, at the time of login.
+
+3. Turnaround time
+Sanction decision within 12 working days from receipt of the complete file. Delays must be reported to the Regional Office at month end.
+
+4. Legal and valuation
+- Legal opinion from an empanelled advocate.
+- Valuation from an empanelled valuer. A single valuation is sufficient for all loan amounts.
+
+5. Insurance
+Home loan protection insurance may be offered to borrowers through the bancassurance partner.
+
+6. Sanctioning authority
+- Branch Manager: up to Rs. 30 lakh
+- Regional Head: above Rs. 30 lakh and up to Rs. 1.5 crore
+- Zonal Credit Committee: above Rs. 1.5 crore
+
+7. Disbursement
+Disburse after the mortgage is created and the disbursement checklist is signed by the Branch Manager.
+
+The maximum tenure is 30 years, subject to the borrower being no older than 65 years at the end of the loan.
+
+=====DOC=====
+doc_id: POL-004
+title: Sahyadri Vahan Mitra - Auto Loan Product Brochure
+source_type: policy
+department: Retail Assets
+date: 2025-12-01
+access_level: Public
+status: current
+account: N/A
+text:
+SAHYADRI UNION BANK - SAHYADRI VAHAN MITRA AUTO LOAN
+
+Drive home your new car sooner with simple, quick financing.
+
+Key features
+- Interest rate: starting from 8.90% per annum, depending on the applicant's credit profile.
+- Loan amount: up to 80% of the on-road price of a new car.
+- Tenure: up to 7 years (84 months) for new cars; up to 3 years for pre-owned cars up to 5 years old.
+- Processing fee: 0.50% of the loan amount plus GST, subject to a maximum of Rs. 7,500 plus GST.
+- Repayment: fixed monthly instalments (EMI) through auto-debit from your Sahyadri Union Bank savings or current account.
+
+Who can apply
+Salaried individuals with at least 1 year in their current job and self-employed individuals with at least 2 years of business continuity. Minimum age 21 years; maximum age at loan maturity 70 years.
+
+Documents required
+- Identity and address proof (as per KYC norms)
+- Latest 3 months' salary slips and 6 months' bank statements, or last 2 years' income tax returns for self-employed applicants
+- Dealer's quotation or proforma invoice for the vehicle
+
+How to apply
+Visit your nearest branch, or ask your dealer for the Sahyadri Union Bank counter. Loan approval is subject to the bank's credit appraisal. Terms and conditions apply.
+
+=====DOC=====
+doc_id: POL-005
+title: Auto Loan Credit Appraisal and Pricing Exception Guidelines
+source_type: policy
+department: Credit
+date: 2026-02-15
+access_level: Credit-Confidential
+status: current
+account: N/A
+text:
+SAHYADRI UNION BANK - CREDIT DEPARTMENT
+AUTO LOAN CREDIT APPRAISAL AND PRICING EXCEPTION GUIDELINES
+For internal credit use only. Do not share outside the bank.
+
+1. Eligibility
+- Minimum credit score: 700. Applications below 700 are not to be considered.
+- Fixed obligation to income ratio (FOIR) must not exceed 50%.
+
+2. Loan-to-value
+- Up to 80% of on-road price for applicants with a score of 750 or above.
+- Up to 75% for applicants with a score from 700 to 749.
+
+3. Tenure
+- New cars: maximum 60 months (5 years).
+- Pre-owned cars: maximum 36 months.
+No exception to the tenure limits is permitted at branch or regional level.
+
+4. Card rates
+- Score 750 and above: 8.90% per annum.
+- Score 700 to 749: 9.60% per annum.
+
+5. Pricing exceptions (rate concessions)
+- Branch Head: up to 10 basis points below the card rate, only for applicants with a score of 750 or above.
+- Regional Credit Head: up to 25 basis points below the card rate.
+- Zonal Credit Committee: any concession above 25 basis points.
+Every concession must be recorded in the exception register with a written justification.
+
+6. Confidentiality
+Concession limits and approval levels are internal. They must not be quoted to customers or dealers as a standing entitlement, and dealers must not be told the eligible concession range.
+
+=====DOC=====
+doc_id: POL-006
+title: Regular Savings Account - Frequently Asked Questions
+source_type: policy
+department: Branch Banking
+date: 2025-09-15
+access_level: Public
+status: current
+account: N/A
+text:
+SAHYADRI UNION BANK - REGULAR SAVINGS ACCOUNT FAQ
+
+Q1. Who can open a Regular Savings Account?
+Any resident individual aged 18 years or above, and minors through a guardian, subject to KYC requirements.
+
+Q2. What documents are needed?
+Proof of identity and address as per KYC norms, a PAN card or Form 60, and a recent photograph. Aadhaar-based e-KYC is accepted.
+
+Q3. What is the minimum balance to be maintained?
+The Average Monthly Balance (AMB) required is Rs. 2,000 for branches in metro and urban areas, and Rs. 1,000 for branches in semi-urban and rural areas. A charge may apply if the AMB is not maintained, as per the bank's schedule of charges.
+
+Q4. Is a zero-balance account available?
+Yes. The Basic Savings Bank Deposit Account is available with no minimum balance requirement, with certain limits on services.
+
+Q5. How is interest paid?
+Interest is calculated on the daily closing balance and credited to your account every quarter.
+
+Q6. Do I get a debit card?
+Yes. A RuPay debit card is issued free of cost. You get 5 free transactions per month at Sahyadri Union Bank ATMs.
+
+Q7. Can I add a nominee?
+Yes. You can add or change a nominee at any time by submitting the prescribed form at your branch.
+
+For more details, visit any branch or contact customer care.
+
+=====DOC=====
+doc_id: POL-007
+title: CASA Operations Circular - Revised Minimum Balance and Charges
+source_type: policy
+department: Operations
+date: 2026-03-20
+access_level: Internal
+status: current
+account: N/A
+text:
+SAHYADRI UNION BANK - OPERATIONS DEPARTMENT
+CIRCULAR NO. OPS/CASA/2026/03
+Subject: Revised Average Monthly Balance (AMB) and non-maintenance charges for Regular Savings Accounts
+Effective date: 1 April 2026
+
+1. Revised AMB
+- Metro and urban branches: Rs. 3,000
+- Semi-urban branches: Rs. 1,500
+- Rural branches: Rs. 1,000
+
+2. Non-maintenance charges (per quarter)
+- Shortfall up to 50% of the required AMB: Rs. 150 plus GST
+- Shortfall above 50%: Rs. 250 plus GST
+Basic Savings Bank Deposit Accounts are exempt.
+
+3. Customer communication
+Branches must ensure that existing customers receive an SMS notice at least 30 days before the first charge is levied under the revised norms.
+
+4. Waivers
+Branch Heads may waive charges up to Rs. 500 per account per financial year, with a written reason recorded in the system. Any waiver beyond this limit needs Regional Office approval.
+
+5. Inoperative accounts
+A savings account with no customer-initiated transaction for 24 months is to be marked inoperative after a written notice to the customer. Reactivation requires fresh KYC confirmation.
+
+6. CASA drive
+Branches are encouraged to convert salary accounts of nearby employers into full-service savings accounts. Branch CASA targets for the quarter will be shared separately by the Regional Office.
+
+=====DOC=====
+doc_id: POL-008
+title: KYC Policy - Version 2
+source_type: policy
+department: Compliance
+date: 2026-01-15
+access_level: Internal
+status: current
+account: N/A
+text:
+SAHYADRI UNION BANK - COMPLIANCE DEPARTMENT
+KNOW YOUR CUSTOMER (KYC) POLICY - VERSION 2
+Effective from 1 February 2026. This version replaces Version 1 dated 10 March 2024.
+
+1. Customer identification
+Every customer must be identified using officially valid documents or Aadhaar-based e-KYC before an account is opened or a loan is sanctioned. A PAN card or Form 60 is mandatory.
+
+2. Risk categorisation
+Customers are placed into three categories: Low, Medium and High risk. The rating of an individual customer is AML-Confidential and must never be disclosed to the customer or to any unauthorised staff member.
+
+3. Periodic KYC updation
+- High risk customers: every 1 year
+- Medium risk customers: every 5 years
+- Low risk customers: every 8 years
+
+4. Enhanced due diligence (High risk)
+- Record the source of funds and source of wealth.
+- Branch Head approval is required to open or continue the account.
+- Monitor transactions more frequently.
+
+5. Politically exposed persons (PEPs)
+Accounts of PEPs require prior approval of the Regional Compliance Office.
+
+6. Record keeping
+Keep KYC records for at least 5 years after the account is closed or the loan is fully repaid.
+
+7. Staff responsibilities
+Branch staff must not open accounts where identity cannot be verified. Any doubt about a customer's documents must be reported to the Branch AML Nodal Officer.
+
+=====DOC=====
+doc_id: POL-009
+title: KYC Policy - Version 1
+source_type: policy
+department: Compliance
+date: 2024-03-10
+access_level: Internal
+status: superseded
+account: N/A
+text:
+SAHYADRI UNION BANK - COMPLIANCE DEPARTMENT
+KNOW YOUR CUSTOMER (KYC) POLICY - VERSION 1
+Effective from 10 March 2024. Valid until 31 January 2026.
+
+1. Customer identification
+Every customer must be identified using officially valid documents or Aadhaar-based e-KYC before an account is opened. A PAN card or Form 60 is mandatory.
+
+2. Risk categorisation
+Customers are placed into three categories: Low, Medium and High risk. Risk ratings are for internal use.
+
+3. Periodic KYC updation
+- High risk customers: every 2 years
+- Medium risk customers: every 8 years
+- Low risk customers: every 10 years
+
+4. Enhanced due diligence (High risk)
+- Record the source of funds.
+- Branch Head approval is required to open the account.
+
+5. Politically exposed persons (PEPs)
+Accounts of PEPs require prior approval of the Branch Head.
+
+6. Record keeping
+Keep KYC records for at least 5 years after the account is closed.
+
+7. Staff responsibilities
+Branch staff must not open accounts where identity cannot be verified. Doubtful cases must be reported to the Branch Manager.
+
+=====DOC=====
+doc_id: POL-010
+title: AML Transaction Monitoring Policy - Version 2
+source_type: policy
+department: Compliance
+date: 2026-05-05
+access_level: AML-Confidential
+status: current
+account: N/A
+text:
+SAHYADRI UNION BANK - COMPLIANCE DEPARTMENT
+ANTI-MONEY LAUNDERING (AML) TRANSACTION MONITORING POLICY - VERSION 2
+Restricted to the AML and Compliance team. Effective from 15 May 2026. Replaces Version 1 dated 1 September 2024.
+
+1. Alert scenarios
+The monitoring system raises an alert when any of the following occurs:
+- Cash deposits totalling Rs. 8 lakh or more in one account in a single day.
+- Repeated cash deposits just below the alert level within 7 days (possible structuring).
+- Rapid pass-through: 90% or more of a credit is debited within 48 hours.
+- Sudden high activity in an account that has been dormant for 12 months or more.
+
+2. Review timelines
+- The Branch AML Nodal Officer must review each alert within 3 working days.
+- Alerts that remain suspicious are escalated to the Principal Officer at the Regional Compliance Office.
+- The decision on filing a Suspicious Transaction Report (STR) must be taken within 7 working days of escalation.
+
+3. No tipping off
+No staff member may inform the customer, or anyone connected with the customer, that an alert has been raised, that an account is under review, or that an STR has been filed.
+
+4. Risk rating changes
+Any change in a customer's risk rating following an alert requires written approval from the Regional Compliance Office.
+
+5. Access and records
+Alert details, STR files and customer risk ratings are visible only to authorised AML and Compliance staff. Records are kept for 5 years.
+
+=====DOC=====
+doc_id: POL-011
+title: DSA Management Policy
+source_type: policy
+department: Retail Assets
+date: 2026-02-01
+access_level: Credit-Confidential
+status: current
+account: N/A
+text:
+SAHYADRI UNION BANK - RETAIL ASSETS DEPARTMENT
+DIRECT SELLING AGENT (DSA) MANAGEMENT POLICY
+For internal use. Payout rates and portfolio quality limits are confidential.
+
+1. Empanelment
+A DSA is empanelled for 2 years after due diligence, a signed agreement and a KYC check of the agency and its owners. Empanelment is reviewed every year.
+
+2. Payout
+- Home loans: 0.40% of the amount disbursed
+- Auto loans: 0.60% of the amount disbursed
+Payout is released within 15 days of full disbursement.
+
+3. Clawback
+If a loan sourced by a DSA turns 60 days or more past due within 6 months of disbursement, the full payout for that loan is recovered from the DSA's future payouts.
+
+4. Quality monitoring
+- A DSA whose early-stage overdue ratio exceeds 3% of loans sourced in a quarter is placed on the watchlist.
+- Two consecutive quarters on the watchlist lead to suspension of new logins.
+
+5. Conduct
+DSAs must not collect any fee from customers, promise sanction dates or interest rates, or handle customer original documents. Any breach leads to blacklisting.
+
+6. Branch responsibility
+Branches must independently verify income and address details of every DSA-sourced application and must not rely on the DSA's verification.
+
+=====DOC=====
+doc_id: POL-012
+title: AML Transaction Monitoring Policy - Version 1
+source_type: policy
+department: Compliance
+date: 2024-09-01
+access_level: AML-Confidential
+status: superseded
+account: N/A
+text:
+SAHYADRI UNION BANK - COMPLIANCE DEPARTMENT
+ANTI-MONEY LAUNDERING (AML) TRANSACTION MONITORING POLICY - VERSION 1
+Restricted to the AML and Compliance team. Effective from 1 September 2024. Valid until 14 May 2026.
+
+1. Alert scenarios
+The monitoring system raises an alert when any of the following occurs:
+- Cash deposits totalling Rs. 10 lakh or more in one account in a single day.
+- Repeated cash deposits just below the alert level within 7 days (possible structuring).
+- Rapid pass-through: 90% or more of a credit is debited within 72 hours.
+- Sudden high activity in an account that has been dormant for 24 months or more.
+
+2. Review timelines
+- The Branch AML Nodal Officer must review each alert within 5 working days.
+- Alerts that remain suspicious are escalated to the Principal Officer at the Regional Compliance Office.
+- The decision on filing a Suspicious Transaction Report (STR) must be taken within 10 working days of escalation.
+
+3. No tipping off
+No staff member may inform the customer, or anyone connected with the customer, that an alert has been raised or that an STR has been filed.
+
+4. Risk rating changes
+Any change in a customer's risk rating following an alert requires approval from the Branch Manager and intimation to the Regional Compliance Office.
+
+5. Access and records
+Alert details and STR files are visible only to authorised AML and Compliance staff. Records are kept for 5 years.
