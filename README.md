@@ -1,4 +1,4 @@
-# Permission-Aware Enterprise Knowledge Assistant
+"Live demo:[ https://…streamlit.app](https://permission-aware-bank-assistant-qsfame9ftbcuxdzm7icjan.streamlit.app/) — pick a role and ask a question."# Permission-Aware Enterprise Knowledge Assistant
 
 A retrieval-augmented AI assistant that answers questions from company documents while enforcing role-based access control — the model never receives a document chunk the user isn't authorized to see.
 
