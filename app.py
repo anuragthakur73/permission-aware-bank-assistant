@@ -40,10 +40,9 @@ ROLE_PERMISSIONS = {
 }
 
 CANDIDATE_MODELS = [
-    "gemini-2.5-flash-lite",
+    "gemini-3.5-flash-lite",
     "gemini-3.1-flash-lite",
-    "gemini-2.5-flash",
-    "gemini-flash-latest",
+    "gemini-flash-lite-latest",
 ]
 
 SYSTEM_INSTRUCTION = """You are an internal assistant for Sahyadri Union Bank staff.
@@ -155,15 +154,17 @@ def load_gemini_client():
 
 @st.cache_resource(show_spinner="Finding an available model...")
 def find_working_model(_client):
-    """Tries each candidate model once and caches whichever one works,
-    so this check only happens once per app session, not per question."""
+    """Tries each candidate model. Only a success is cached: on failure it
+    raises an error, which Streamlit does not cache, so the next visit
+    retries instead of repeating an old failure."""
+    errors = []
     for model_name in CANDIDATE_MODELS:
         try:
             _client.models.generate_content(model=model_name, contents="Say OK")
             return model_name
-        except Exception:
-            continue
-    return None
+        except Exception as e:
+            errors.append(f"{model_name}: {str(e)[:400]}")
+    raise RuntimeError("\n\n".join(errors))
 
 
 # ---------------------------------------------------------------------------
@@ -288,10 +289,13 @@ with st.spinner("Setting up..."):
     collection, all_chunks, all_metadata, bm25_index = load_and_index_documents()
     reranker = load_reranker()
     client = load_gemini_client()
-    working_model = find_working_model(client)
 
-if not working_model:
-    st.error("No Gemini model is currently available. The free-tier daily quota may be exhausted.")
+try:
+    working_model = find_working_model(client)
+except RuntimeError as e:
+    st.error("No Gemini model is currently available.")
+    with st.expander("See detailed errors", expanded=True):
+        st.text(str(e))
     st.stop()
 
 st.divider()
